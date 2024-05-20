@@ -1,15 +1,18 @@
 # Hello! My name is Shlok Patel 
-## APCSP Resume
+## 📜 APCSP Resume
 
 > ![](https://komarev.com/ghpvc/?username=shlokpate12&color=FB9905)
 
 
-### Here Lies things I enjoy
+### 😄 Fun Facts and things I like
 
 * Fortnite
 * Family and Friends
 * Clash royale
 * Pizza
+* Im 15
+* 9th Grade
+* Grand Blanc High school Student 
 
 _____________________________________________________
 
@@ -28,9 +31,10 @@ ___________________________________________________
 
 ### ✉️ Profiles/ Contact Information
 
-* Email: 
-* Instagram: [@jaypatel](https://www.instagram.com/jpat678/)
-* TikTok: 
+* 📨 Email: shlokkpatel75@gbstu.org
+* 📷 Instagram: [@shlo_kpatel1234](https://www.instagram.com/shlo_kpatel1234/)
+* ⌚ TikTok: [shlok_p12345](https://www.tiktok.com/@shlok_p12345)
+* 👻 snapchat: shlokpatel01234
 
 ____________________________________________________
 
@@ -40,7 +44,7 @@ ____________________________________________________
 
 ___________________________________________________
 
-## Statistics 
+## 📊 Statistics 
 
 > ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shlokpatel12&theme=synthwave&hide_border=true)
 >
